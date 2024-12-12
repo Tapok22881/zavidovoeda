@@ -1,6 +1,6 @@
 import { Telegraf, Markup } from "telegraf";
 
-const token = "7554557850:AAFxomtChZPtX6X8qdi73qRiPLe6P_psuJA";
+const token = "";
 const webAppUrl = "https://canteen-zav.web.app";
 
 const bot = new Telegraf(token);
